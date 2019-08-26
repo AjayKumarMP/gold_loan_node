@@ -1,0 +1,7 @@
+node_modules/*
+id_rsa*
+k8s/secrets
+.idea/
+dist/*
+logs/*
+yarn-error.log

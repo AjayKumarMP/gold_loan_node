@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dbudddy-in",
+  "private_key_id": "4907613c51105d378d641dc31ac5fafb941a8a17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3pcO1vRlQjOKN\nQoh5BhoECA4aYKzdgzn0+Bop2JKKJBgwrJrh83rS7ZCO9dQ95EGmiKSGJlVen9HD\n345E2OnD/ufNzUExwl6WRst/MisbrbICcfclRsGqidn8OZlITAi3ccl2dNCT3acK\n7NyXs5JeP3WZK8ZK56/1FpRvU8/GqYhWuJvATM+qFcAe06xC77e/DS19JS1IhSSv\nVMJOKgLx48bZcnKVVRjrZOb1bte+cOiulwj1uIwUJWILHxDcM6nt9Rh+3sQWRa6c\nlDvdojN/R0f1mLciPy1ayfDC4Zi+FXkwgHTCmgnwuCBIJrj7pBahJsENV3weFX2Q\nfY8Xk66HAgMBAAECggEAGZQU9jMoW3fD9jjWGUUoSnd0v2fHq/KjF+OWgU2Q23y7\ngcwIpn/rE4XTJJZIwXYRTsipYaXlLhDEfqucfSpZJNtUHe4ArpWL5xJlNYofRvOi\nX4TQD3kTcFVS7zZ2iwNME4Ddton+oxm0MmlbMCXqtQXRs0vNipFKiLBkbD0YK2sk\n7QSgbyOVtytKa2P4iDy83v8wvBQRuRQfaSGQ1axxcx3QDg+ln33/dj/oPEqBpjkr\nZFYu2KJUJzSLqZwItYdMSjOIXNSoPnsLTvP54nMpKFOEVey1O4Y5L+gQFpqdpPpk\nITRKAU52LKhJ4k+UrkTFIgSCuruZ7D5AhPps82ClgQKBgQDouVgUQTtrFRtAvzRz\ng99U6wcT0k+YJxgr/VMViY1mg/ZHV7DnGeWcIP5HmxKO2WzWfvTGmcgGTWUxKwn/\n3+PI5zyyalArMX9+CsyK0bcT92WpFEGoFIvD89V1LJzDBt5qJX6I/u+9D7aMyUnT\nh9QNGOechB8U71G3EeEtVDoRSQKBgQDKA94+slWwHZacWoG4SrICeJfx3PUOJKCP\nxQzWhWrToqyRWO4XD6ORwwO4XTNIplbQ90YuMxJ94W43qHLJJSVsUIqOdKsscAMq\nrhHuynyidj/yhx3B3ZcCeKUOzruhAFtf8BJvFcUDpgqXdhJSxzxPV/ZQwc6YxYho\n2Ay8BO6RTwKBgCOtXlpkkbZd2vq3FVRsMA21pjUctcUOoT8FK/qORtYjftr7D4yu\nRKwFxtW1aUfq/yt29RGJO8fzj4LVJUhLy4DeKkjz0Wx9vxzUjPzvH5D5CWW9TD93\nPuIAfIXlG/cuE2TUcKyR4LDsOsEkjqPWG+USH1e4TYeJFM7q98laMzi5AoGAPQB6\nBhi4A1yL9F7oOQxlQJXF3EVKwqCQ05k/TTAwmAPRdHqUOuaAEC4BW5TZPaDtKmDh\nEmZduSFvtOLq9o5/BHw1utrELcENU8AIrkD67dwjZ0sh0z7ksNxZi2UmB3IiJZBL\nILxEJ9vl6uK+mbyMG7GGMdC0YDGWBYLoJYafu8UCgYBUzCUM4pvG9s7+PYoBG4qq\nBW8RBxKgbMpeaMUW2br8thA2QKPj70Sd8Bf/F8GsmYBLvDYsxHo/653tfyz09P5x\nuNoGi4L+W5Iaf6slAP58vkOpcLdHa1Pu3t1UAAKt04OnqTzCRYPZjt6xbKgkQw07\ndK5Z4R/ymS97jY5vG61b2A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastore-finiciti@dbudddy-in.iam.gserviceaccount.com",
+  "client_id": "107041158662735892359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastore-finiciti%40dbudddy-in.iam.gserviceaccount.com"
+}
